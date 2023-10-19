@@ -16,3 +16,20 @@ ul{
     background-color: rgb(4, 100, 28);
     color:rgb(0, 255, 13);
 }
+
+.img-size {
+    width: 400px;
+    margin: 20px;
+
+}
+
+#main-box {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.img-hover:hover {
+    border: 12px solid rgb(226, 14, 216);
+    border-radius: 40px;
+}
